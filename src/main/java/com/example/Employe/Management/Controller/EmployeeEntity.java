@@ -1,4 +1,3 @@
-
 //hellow this is entity
 package com.example.Employe.Management.Controller;
 

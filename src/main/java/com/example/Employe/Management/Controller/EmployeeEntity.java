@@ -1,4 +1,4 @@
-//hellow this is entity
+//hello this is entity
 package com.example.Employe.Management.Controller;
 
 import jakarta.persistence.Entity;

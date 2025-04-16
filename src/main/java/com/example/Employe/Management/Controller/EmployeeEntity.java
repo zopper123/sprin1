@@ -1,5 +1,5 @@
 
-// hellow entity
+// hellow entity entity
 package com.example.Employe.Management.Controller;
 
 import jakarta.persistence.Entity;
